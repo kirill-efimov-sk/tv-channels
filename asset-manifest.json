@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.05a9cedf.css",
+    "main.js": "/static/js/main.ee21621f.js",
+    "static/media/error-boundary.jpg": "/static/media/error-boundary.436c4571eeeb0c50cb87.jpg",
+    "static/media/tv.png": "/static/media/tv.062039845efc1b90b327.png",
+    "index.html": "/index.html",
+    "main.05a9cedf.css.map": "/static/css/main.05a9cedf.css.map",
+    "main.ee21621f.js.map": "/static/js/main.ee21621f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.05a9cedf.css",
+    "static/js/main.ee21621f.js"
+  ]
+}
